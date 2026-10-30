@@ -1,4 +1,4 @@
-# Astroturfing and amplification around migrant scapegoating on Reddit during the UK local elections (2026)
+# Astroturfing and amplification of anti-migrant discourse on Reddit during the UK local elections (2026)
 
 Code for *A jagged reading: Telling amplification from astroturfing in a pre-election anti-migrant surge on UK Reddit*
 
