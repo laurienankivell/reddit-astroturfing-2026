@@ -1,6 +1,6 @@
 # Content analysis in astroturfing detection
 
-Code for *Content analysis in astroturfing detection: The value of a mixed-methods approach in an era of LLM-generated content* (Cambridge Disinformation Summit, 2026).
+Code for *A jagged reading: Telling amplification from astroturfing in a pre-election anti-migrant surge on UK Reddit*
 
 The study collects migration-related comments from UK political subreddits around the 7 May 2026 local elections (8 March – 8 June 2026), classifies their stance with StanceBERTa and a local LLM (Ministral-14B), and tests the anti-migrant comments, and the accounts that posted them, for features of astroturfing. Everything is in one notebook, `Reform_Reddit_Election_CLEAN.ipynb`, organised by research question; its saved outputs show every result and figure in the paper.
 
@@ -13,7 +13,7 @@ The study collects migration-related comments from UK political subreddits aroun
 | `figures/figure5_anti_migrant_share.png` | Figure 5: daily anti-migrant share |
 | `figures/table2_topic_vs_hostility.png` | Table 2, as a chart |
 | `figures/figure6_account_creation.png` | Figure 6: account creation dates |
-| `figures/network_communities.png` | Network of strongly tied accounts |
+| `figures/network_communities.png` | Figure 8: Network of strongly tied accounts |
 | `figures/figureA1_S9_anti_migrant.png`, `figureA2_S9_control.png` | Figures A1 and A2 |
 
 ## Running it
