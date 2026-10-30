@@ -1,0 +1,11 @@
+# credentials
+.env
+# study data: Reddit content and usernames are not shared
+outputs/
+data/
+*.csv
+*.xlsx
+# system and notebook clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
